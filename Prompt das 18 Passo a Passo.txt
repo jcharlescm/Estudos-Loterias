@@ -1,0 +1,20 @@
+Prompt 1
+Análise o último concurso da Lotofácil. Preciso saber quantos pares e ímpares saíram Em seguida informe as ausentes
+
+Prompt 2
+Nas dezenas ausentes separe em dois grupos, pares e ímpares.
+
+Prompt 3
+Faça uma análise das ausentes, faça uma análise de frequências e de duplas, com base nos últimos 12 concursos
+
+Prompt 4
+Com base nisso temos já 4 dezenas para armazenar na nossa composição, 25 – 14 – 11 – 16. Faça uma análise das dezenas sorteadas, separe em dois grupos pares e ímpares. Faça a mesma análise anterior.
+
+Prompt 5
+Temos o grupo com as dezenas 11 – 14 – 16 – 25 e 01 – 08 – 12 – 15 – 19 – 24. As 10 dezenas do nosso grupo não serão analisadas. Elas serão retiradas do universo de 25, e vamos estudar somente as 15 dezenas que ficaram de fora. Preciso que você análise a frequência das ausentes desse grupo de 15, faça a mesma análise anterior.
+
+Prompt 6
+Exato, faça duas identificações, as 5 que faltam, esse será um jogo Depois faça a seleção dessas 5 e mais 3, para assim termos 18 e fazer um desdobramento em 10 jogos.
+
+Prompt 7
+Faça o desdobramento
